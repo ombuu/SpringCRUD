@@ -1,8 +1,11 @@
 # 스프링 CRUD 개인 프로젝트
 로그인과 게시판등 웹페이지에서 가장 기본적으로 사용하는 기능이 있는 프로젝트 입니다.
 
-<img src="https://img.shields.io/badge/-Notion-3776AB?style=flat&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Spring-CRUD-2fb21f62d4824603a67b5bc63998f094?pvs=4"/>
+### 프로젝트 노션
+
+👉 [![Notion Badge](http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Spring-CRUD-2fb21f62d4824603a67b5bc63998f094?pvs=4)](https://www.notion.so/Spring-CRUD-2fb21f62d4824603a67b5bc63998f094?pvs=4)
+[![Notion Badge](http://img.shields.io/badge/-Notion-FFFFFF?style=flat&logo=Notion&logoColor=black&link=https://www.notion.so/Spring-CRUD-2fb21f62d4824603a67b5bc63998f094?pvs=4)](https://www.notion.so/Spring-CRUD-2fb21f62d4824603a67b5bc63998f094?pvs=4)
+👈
 
 ### 🌐 기술 스택
 
